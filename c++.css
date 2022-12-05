@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	padding: 10px;
+	background:#fff;
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	
+}
+.header
+{
+	text-align: center;
+	background:teal;
+	padding:15px;
+}
